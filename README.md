@@ -1,4 +1,10 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXYwZmFpejJ6aTJvcTh5a2Y1bjU4anRqcjMweW93MGJxd3I3amc3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XD9o33QG9BoMis7iM4/giphy.gif" width="100"/>
+</div>
+
+
+
+### Hi there 👋, I'm Mirko :D
 
 <!--
 **mirkobrink2412/mirkobrink2412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
