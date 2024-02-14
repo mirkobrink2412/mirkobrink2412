@@ -31,7 +31,7 @@
 </p>
 
 <p>
-  If you have questions or something else, feel free to contact me on Instagram or with E-Mail at m.brinkmann@gmail.com.
+  If you have questions or something else, feel free to contact me on Instagram or <a href="mailto:m.brinkmann00@gmail.com">Send me an email</a>.
 </p>
 
 <!--
