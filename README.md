@@ -16,15 +16,22 @@
 <h3>About me</h3>
   
 <p>
-  I'm Mirko, a 23 year old German, who is currently learning Web- and Softwaredevelopment at the DCI in Germany.
-  
-</p>
-<p>
-  At the Moment I'm only a learner, so i don't have much Informations on my Profile.
+  I'm Mirko,
 </p>
 
 <p>
-  To reach me write me on my Instagram, link is above.
+   a 23 year old German,
+<p>
+  who is currently learning Web- and Softwaredevelopment at Digital Career Institute in Germany.
+</p>
+<p>
+   
+</p>
+  At the Begining, my focus is on HTML5, CSS and JavaScript.
+</p>
+
+<p>
+  If you have questions or something else, feel free to contact me on Instagram.
 </p>
 
 <!--
